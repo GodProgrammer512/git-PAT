@@ -1,2 +1,2 @@
 # git-test
-Teste do gt
+Teste do git
